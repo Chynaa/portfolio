@@ -6,3 +6,11 @@ html {
   background-size: cover; 
   /*background-image: url("../img/Background.png");*/
 }
+
+h1 {
+  text-align:center;  
+}
+
+h2 {
+  text-align:center;  
+}
