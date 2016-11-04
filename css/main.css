@@ -18,10 +18,10 @@ html, body {
   margin: 0 -9999rem;
   padding: 0.25rem 9999rem;*/
   position:fixed;
-  top:0;
+  top:50%;
   left:0;
   right:0;
-  height:50px;
+  height:70vh;
   background: rgba(220,220,220,0.5);
   opacity: 1;
 }
