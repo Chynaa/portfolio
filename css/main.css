@@ -12,14 +12,14 @@ html, body {
 }
 
 .mybar {
+  text-align:center;
   position:absolute;
-  vertical-align: middle;
+  top:45%;
   margin: 0 -9999rem;
   /* add back negative margin value */
   padding: 0.25rem 9999rem;
   background: rgba(0, 0, 0, 0.5);
   opacity: 1;
-  text-align:center;
 }
 
 /*h1 {
