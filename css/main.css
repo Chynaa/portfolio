@@ -19,7 +19,7 @@ html, body {
   /* add back negative margin value */
   padding: 0.25rem 9999rem;
   background: #DCDCDC;
-  opacity: 1;
+  opacity: 0.2;
 }
 
 /*h1 {
