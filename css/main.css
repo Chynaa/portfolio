@@ -16,6 +16,7 @@ html, body {
   /* add back negative margin value */
   padding: 0.25rem 9999rem;
   background: rgba(0, 0, 0, 0.5);
+  opacity: 0.5;
 }
 
 h1 {
