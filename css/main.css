@@ -7,21 +7,17 @@ html {
   /*background-image: url("../img/Background.png");*/
 }
 
-html, body {
+/*html, body {
   overflow-x: hidden;
-}
+}*/
 
 .mybar {
   text-align:center;
-  /*position:absolute;
-  top:45%;
-  margin: 0 -9999rem;
-  padding: 0.25rem 9999rem;*/
   position:absolute;
   top:20%;
   left:0;
   right:0;
-  height:400px;
+  height:400px;/*60vh if I want to to be 60% of window height*/
   background: rgba(0,0,0,0.5);
   opacity: 1;
 }
