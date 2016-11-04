@@ -18,7 +18,7 @@ html, body {
   margin: 0 -9999rem;
   padding: 0.25rem 9999rem;*/
   position:fixed;
-  top:45%;
+  top:20%;
   left:0;
   right:0;
   height:50vh;
@@ -26,10 +26,10 @@ html, body {
   opacity: 1;
 }
 
-/*h1 {
-  text-align:center; 
+h1 {
+   top:45%;
 }
 
 h2 {
-  text-align:center;
-}*/
+  top:45%;
+}
