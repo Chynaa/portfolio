@@ -18,15 +18,13 @@ html, body {
   /* add back negative margin value */
   padding: 0.25rem 9999rem;
   background: rgba(0, 0, 0, 0.5);
-  opacity: 0.2;
+  opacity: 1;
 }
 
 h1 {
   text-align:center; 
-  opacity: 1;
 }
 
 h2 {
   text-align:center;
-  opacity: 1;
 }
