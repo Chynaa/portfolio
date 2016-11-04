@@ -22,13 +22,11 @@ html, body {
 }
 
 h1 {
-  position:absolute;
-  top:50%;
-  text-align:center;  
+  text-align:center; 
+  opacity: 1;
 }
 
 h2 {
-  position:absolute;
-  top:50%;
-  text-align:center;  
+  text-align:center;
+  opacity: 1;
 }
