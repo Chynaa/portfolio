@@ -21,15 +21,9 @@ html, body {
   top:20%;
   left:0;
   right:0;
-  height:70vh;
+  height:60vh;
   background: rgba(0,0,0,0.5);
   opacity: 1;
 }
 
-h1 {
-   top:45%;
-}
 
-h2 {
-  top:45%;
-}
