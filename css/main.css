@@ -85,7 +85,7 @@ table.center{
 }
 
 label {
-  display: inline;
+  display: inline-block;
 }
 
 input[type="submit"] {
