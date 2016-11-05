@@ -25,6 +25,7 @@ html {
 
 .mybar #name{
   font-family: 'Over the Rainbow', Georgia, serif;
+  font-size: 3em;
 }
 table.center{
     margin-left:auto; 
