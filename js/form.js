@@ -1,5 +1,4 @@
-
-// Fetching HTML Elements in Variables by ID.
+//Created by following tutorial @ https://www.formget.com/javascript-contact-form/
 var x = document.getElementById("form");
 var createform = document.createElement('form'); // Create New Element Form
 createform.setAttribute("action", ""); // Setting Action Attribute on Form
