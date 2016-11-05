@@ -22,7 +22,8 @@ html {
   background: rgba(0,0,0,0.5);
 }
 
-.mybar #hello{
+.content #hello{
+  color:pink;
   font-style: oblique	
   text-align:left;
 }
