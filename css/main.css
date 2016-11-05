@@ -26,6 +26,7 @@ html {
 .mybar #name{
   font-family: 'Over the Rainbow', Georgia, serif;
   font-size: 3em;
+  margin:0;
 }
 
 .mybar #intro{
