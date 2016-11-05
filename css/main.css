@@ -23,7 +23,7 @@ html {
   background: rgba(0,0,0,0.5);
 }
 
-h1{
+.mybar#name{
   font-family: 'Over the Rainbow', Georgia, serif;
 }
 table.center{
