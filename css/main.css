@@ -85,6 +85,8 @@ table.center{
 }
 
 input[type="submit"] {
+  display: inline-block;
+  position: relative;
   padding: 0 20px; 
   background: #a5cd4e;
   text-align: center;
