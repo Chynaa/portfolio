@@ -13,7 +13,7 @@ html {
 
 .mybar {
   text-align:center;
-  font: bold 12px/25px Arial, sans-serif;
+  font: bold 12px/25px Georgia, serif;
   position:absolute;
   top:20%;
   left:0;
@@ -30,7 +30,7 @@ html {
   padding: 0 20px;
   text-align: center;
   text-decoration: none;
-  font: bold 12px/25px Arial, sans-serif;
+  font: bold 12px/25px Georgia, serif;
   color: #006680;
   background: #a5cd4e;
   
