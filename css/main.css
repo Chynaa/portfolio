@@ -85,8 +85,6 @@ table.center{
 }
 
 input[type="submit"] {
-  display: inline-block;
-  position: relative;
   padding: 0 20px; 
   background: #a5cd4e;
   text-align: center;
@@ -94,6 +92,7 @@ input[type="submit"] {
   font: bold 12px/25px Georgia, serif;
   color: #006680;
   margin: 10px;
+  border:none;
   
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
