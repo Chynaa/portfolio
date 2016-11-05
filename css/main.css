@@ -13,13 +13,23 @@ html {
 
 .mybar {
   text-align:center;
+  font: bold 12px/25px Arial, sans-serif;
   position:absolute;
   top:20%;
   left:0;
   right:0;
   height:400px;/*60vh if I want to to be 60% of window height*/
   background: rgba(0,0,0,0.5);
- /* opacity: 1;*/
+}
+
+.button {
+  display: inline-block;
+  position: relative;
+  margin: 10px;
+  padding: 0 20px;
+  text-align: center;
+  text-decoration: none;
+  font: bold 12px/25px Arial, sans-serif;
 }
 
 
