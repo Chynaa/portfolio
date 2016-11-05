@@ -4,8 +4,8 @@ $(function(){
   },
   function(){
     $('#self').attr('src', './img/selfpic.jpg');
-  }
-}
+  })
+})
   
 $(function(){
   $('#tybella').hover(function(){
@@ -13,8 +13,8 @@ $(function(){
   },
   function(){
     $('#tybella').attr('src', 'tylerbella.jpg');
-  }
-}
+  })
+})
 
 $(function(){
   $('#cats').hover(function(){
@@ -22,5 +22,5 @@ $(function(){
   },
   function(){
     $('#cats').attr('src', 'kitties.jpg');
-  }
-}
+  })
+})
