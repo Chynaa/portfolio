@@ -9,7 +9,7 @@ $(function(){
   
 $(function(){
   $('#tybella').hover(function(){
-    $('#tybella').attr('src', 'tyguyybella.jpg');
+    $('#tybella').attr('src', 'tychy.jpg');
   },
   function(){
     $('#tybella').attr('src', 'tylerbella.jpg');
@@ -18,7 +18,7 @@ $(function(){
 
 $(function(){
   $('#cats').hover(function(){
-    $('#cats').attr('src', 'kittens.jpg');
+    $('#cats').attr('src', 'catsbella.jpg');
   },
   function(){
     $('#cats').attr('src', 'kitties.jpg');
