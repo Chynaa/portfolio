@@ -12,7 +12,7 @@ html {
 }*/
 
 .mybar {
-  text-align:center;
+  /*text-align:center;*/
   font: bold 12px/25px Georgia, serif;
   position:absolute;
   top:20%;
@@ -21,11 +21,12 @@ html {
   height:400px;/*60vh if I want to to be 60% of window height*/
   background: rgba(0,0,0,0.5);
 }
-
+h1 {
+  text-align:center;
+}
 .content #hello{
   color:pink;
   font-style: oblique	
-  text-align:left;
 }
 /*Button Tutorial used to create this: https://designmodo.com/create-css3-buttons*/
 .button {
