@@ -18,7 +18,9 @@ html {
   top:20%;
   left:0;
   right:0;
-  height:400px;/*60vh if I want to to be 60% of window height*/
+  display:block;
+  overflow:auto;
+  /*height:400px;/*60vh if I want to to be 60% of window height*/
   background: rgba(0,0,0,0.5);
 }
 table.center{
