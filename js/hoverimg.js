@@ -21,6 +21,6 @@ $(function(){
     $('#cats').attr('src', 'kittens.jpg');
   },
   function(){
-    $('#cats').attr('src', 'kittens.jpg');
+    $('#cats').attr('src', 'kitties.jpg');
   }
 }
