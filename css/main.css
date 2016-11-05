@@ -22,6 +22,10 @@ html {
   background: rgba(0,0,0,0.5);
 }
 
+.hello{
+  font-style: oblique	
+  text-align:left;
+}
 /*Button Tutorial used to create this: https://designmodo.com/create-css3-buttons*/
 .button {
   display: inline-block;
