@@ -84,13 +84,12 @@ table.center{
   box-shadow: inset 0px 0px 3px rgba(0,0,0, .8);
 }
 
-div#form{
-text-align:center;
-border:1px solid #ccc;
-width:300px;
-padding:0 50px 15px;
-margin-top:20px;
-box-shadow:0 0 15px;
-border-radius:6px;
-float:center;
+textarea{
+width:100%;
+border:3px solid #2BC1F2;
+padding:10px;
+margin-bottom:25px;
+margin-top:10px;
+height:100px;
+resize:none
 }
