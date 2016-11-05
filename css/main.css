@@ -32,6 +32,7 @@ html {
   font: bold 12px/25px Arial, sans-serif;
   color: #006680;
   background: #a5cd4e;
+  border: 2px solid rgba(33, 68, 72, 0.59);
 }
 
 
