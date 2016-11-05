@@ -40,8 +40,9 @@ table.center{
 p{
   /*text-align: center;*/
   /*word-wrap: break-word;*/
-  width: 500px;
-  margin: 0 auto 0 auto;
+  position: fixed;
+  left: 0;
+  right: 0;
 }
 /*Button Tutorial used to create this: https://designmodo.com/create-css3-buttons*/
 .button {
