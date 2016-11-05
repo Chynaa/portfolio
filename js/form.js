@@ -6,7 +6,7 @@ createform.setAttribute("method", "post"); // Setting Method Attribute on Form
 x.appendChild(createform);
 
 var namelabel = document.createElement('label'); // Create Label for Name Field
-namelabel.innerHTML = "Your Name : "; // Set Field Labels
+namelabel.innerHTML = "Your Name"; // Set Field Labels
 createform.appendChild(namelabel);
 
 var inputelement = document.createElement('input'); // Create Input Field for Name
@@ -18,7 +18,7 @@ var linebreak = document.createElement('br');
 createform.appendChild(linebreak);
 
 var emaillabel = document.createElement('label'); // Create Label for E-mail Field
-emaillabel.innerHTML = "Your Email : ";
+emaillabel.innerHTML = "Your Email";
 createform.appendChild(emaillabel);
 
 var emailelement = document.createElement('input'); // Create Input Field for E-mail
@@ -30,7 +30,7 @@ var emailbreak = document.createElement('br');
 createform.appendChild(emailbreak);
 
 var messagelabel = document.createElement('label'); // Append Textarea
-messagelabel.innerHTML = "Your Message : ";
+messagelabel.innerHTML = "Your Message";
 createform.appendChild(messagelabel);
 
 var texareaelement = document.createElement('textarea');
