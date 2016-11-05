@@ -38,8 +38,9 @@ table.center{
 }
 
 p{
+  text-align: center;
   word-wrap: break-word;
-  width: 100px;
+  width: 200px;
 }
 /*Button Tutorial used to create this: https://designmodo.com/create-css3-buttons*/
 .button {
