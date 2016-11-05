@@ -1,6 +1,6 @@
 $(function(){
   $(#'idimg').hover(function(){
-    $('#self').attr('src', 'photo.jpg');
+    $('#self').attr('src', 'selfie.jpg');
   },
   function(){
     $('#self').attr('src', 'selfpic.jpg');
@@ -9,7 +9,7 @@ $(function(){
   
 $(function(){
   $(#'idimg').hover(function(){
-    $('#tybella').attr('src', 'photo.jpg');
+    $('#tybella').attr('src', 'tyguyybella.jpg');
   },
   function(){
     $('#tybella').attr('src', 'tylerbella.jpg');
