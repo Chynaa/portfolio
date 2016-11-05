@@ -9,18 +9,18 @@ $(function(){
   
 $(function(){
   $('#tybella').hover(function(){
-    $('#tybella').attr('src', 'tychy.jpg');
+    $('#tybella').attr('src', './img/tychy.jpg');
   },
   function(){
-    $('#tybella').attr('src', 'tylerbella.jpg');
+    $('#tybella').attr('src', './img/tylerbella.jpg');
   })
 })
 
 $(function(){
   $('#cats').hover(function(){
-    $('#cats').attr('src', 'catsbella.jpg');
+    $('#cats').attr('src', './img/catsbella.jpg');
   },
   function(){
-    $('#cats').attr('src', 'kitties.jpg');
+    $('#cats').attr('src', './img/kitties.jpg');
   })
 })
