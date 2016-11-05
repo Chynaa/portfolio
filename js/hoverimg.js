@@ -1,9 +1,9 @@
 $(function(){
   $('#self').hover(function(){
-    $('#self').attr('src', 'selfie.jpg');
+    $('#self').attr('src', './img/selfie.jpg');
   },
   function(){
-    $('#self').attr('src', 'selfpic.jpg');
+    $('#self').attr('src', './img/selfpic.jpg');
   }
 }
   
