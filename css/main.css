@@ -23,7 +23,7 @@ html {
 }
 
 /*Button Tutorial used to create this: https://designmodo.com/create-css3-buttons*/
-.button {
+.front {
   display: inline-block;
   position: relative;
   margin: 10px;
