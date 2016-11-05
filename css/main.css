@@ -22,7 +22,7 @@ html {
   background: rgba(0,0,0,0.5);
 }
 
-#hello{
+.mybar #hello{
   font-style: oblique	
   text-align:left;
 }
