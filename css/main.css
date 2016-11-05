@@ -93,6 +93,7 @@ input[type="submit"] {
   color: #006680;
   margin: 10px;
   border:none;
+  outline:none;
   
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
