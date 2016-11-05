@@ -27,6 +27,10 @@ html {
   font-family: 'Over the Rainbow', Georgia, serif;
   font-size: 3em;
 }
+
+.mybar #intro{
+  font-family: font-family: 'Londrina Sketch', Georgia, serif;
+}
 table.center{
     margin-left:auto; 
     margin-right:auto;
