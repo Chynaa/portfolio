@@ -1,8 +1,26 @@
 $(function(){
   $(#'idimg').hover(function(){
-    $('#idimg').attr('src', 'photo.jpg');
+    $('#self').attr('src', 'photo.jpg');
   },
   function(){
-    $('#idimg').attr('src', 'selfpic.jpg');
+    $('#self').attr('src', 'selfpic.jpg');
+  }
+}
+  
+$(function(){
+  $(#'idimg').hover(function(){
+    $('#tybella').attr('src', 'photo.jpg');
+  },
+  function(){
+    $('#tybella').attr('src', 'tylerbella.jpg');
+  }
+}
+
+$(function(){
+  $(#'idimg').hover(function(){
+    $('#cats').attr('src', 'kittens.jpg');
+  },
+  function(){
+    $('#cats').attr('src', 'kittens.jpg');
   }
 }
