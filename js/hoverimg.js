@@ -1,5 +1,5 @@
 $(function(){
-  $(#'idimg').hover(function(){
+  $('#self').hover(function(){
     $('#self').attr('src', 'selfie.jpg');
   },
   function(){
@@ -8,7 +8,7 @@ $(function(){
 }
   
 $(function(){
-  $(#'idimg').hover(function(){
+  $('#tybella').hover(function(){
     $('#tybella').attr('src', 'tyguyybella.jpg');
   },
   function(){
@@ -17,7 +17,7 @@ $(function(){
 }
 
 $(function(){
-  $(#'idimg').hover(function(){
+  $('#cats').hover(function(){
     $('#cats').attr('src', 'kittens.jpg');
   },
   function(){
