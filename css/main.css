@@ -115,3 +115,15 @@ input[type="submit"] {
   background: -ms-linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%); /* IE10+ */
   background: linear-gradient(top,  #a5cd4e 0%,#6b8f1a 100%);
 }
+
+input[type="submit"]:hover{
+  -webkit-box-shadow: 1px 1px 1px rgba(0,0,0,.29), inset 0px 0px 2px rgba(0,0,0, .5);
+  -moz-box-shadow: 1px 1px 1px rgba(0,0,0,.29), inset 0px 0px 2px rgba(0,0,0, .5);
+  box-shadow: 1px 1px 1px rgba(0,0,0,.29), inset 0px 0px 2px rgba(0,0,0, .5);
+}
+
+input[type="submit"]:active{
+  -webkit-box-shadow: inset 0px 0px 3px rgba(0,0,0, .8);
+  -moz-box-shadow: inset 0px 0px 3px rgba(0,0,0, .8);
+  box-shadow: inset 0px 0px 3px rgba(0,0,0, .8);
+}
