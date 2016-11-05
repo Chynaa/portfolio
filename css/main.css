@@ -22,9 +22,6 @@ html {
   background: rgba(0,0,0,0.5);
 }
 
-.content #hello{
-  color:pink;
-}
 /*Button Tutorial used to create this: https://designmodo.com/create-css3-buttons*/
 .button {
   display: inline-block;
