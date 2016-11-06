@@ -83,12 +83,23 @@ h3{
 }
 
 @media only screen and (max-width: 614px) {
+
     .pics {
       display: block; 
       margin: 0; 
       width: 100%; 
       max-width: none;
     }
+  td{
+    display: table-cell;
+    width: 20%;
+    overflow: hidden;
+    vertical-align: baseline;
+}
+  img{
+    width: 100%;  
+  table-layout: fixed;
+}
 }
 @media only screen and (min-width: 614px) {
   .pics {
