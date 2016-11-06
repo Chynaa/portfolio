@@ -80,8 +80,8 @@ h3{
 
 @media only screen and (max-width: 340px) {
   img_resize{
-    width: 100%;  
-    table-layout: fixed;
+    max-width: 100%;
+    width: 100%; 
   }
 }
 
