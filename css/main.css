@@ -79,9 +79,8 @@ h3{
 }
 
 @media only screen and (max-width: 340px) {
-  img_resize{
-    max-width: 100%;
-    width: 100%; 
+  .img_resize{
+    width: 100%;
   }
 }
 
