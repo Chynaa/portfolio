@@ -95,10 +95,10 @@ h3{
     overflow: hidden;
     vertical-align: baseline;
   }
-  table img{
+  .table_img_resize{
     width: 100%;  
-  table-layout: fixed;
-}
+    table-layout: fixed;
+  }
 }
 @media only screen and (min-width: 614px) {
   .pics {
