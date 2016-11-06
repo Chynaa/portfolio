@@ -20,12 +20,13 @@ html {
 
 .mybar #name{
   font-family: 'Over the Rainbow', Georgia, serif;
-  font-size: 3em;
+  font-size: 3.5em;
   margin:0px;
 }
 
 .mybar #intro{
   font-family: 'Londrina Sketch', Georgia, serif;
+  font-size:2em;
 }
 
 h3{
