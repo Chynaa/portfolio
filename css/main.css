@@ -79,6 +79,14 @@ h3{
   box-shadow: inset 0px 0px 3px rgba(0,0,0, .8);
 }
 
+
+a:hover {
+    color : #000 ;
+}
+a:focus { 
+  color : #000 ;
+}
+
 @media only screen and (max-width: 340px) {
   .img_resize{
     width: 100%;
