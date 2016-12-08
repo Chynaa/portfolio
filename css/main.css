@@ -80,18 +80,9 @@ h3{
 }
 
 a:link {
-    color : #216A12 ;
-}
-a:visited {
-    color : #0C4700 ;
+    color : #006680;
 }
 
-a:hover {
-    color : #000 ;
-}
-a:focus { 
-  color : #000 ;
-}
 
 @media only screen and (max-width: 340px) {
   .img_resize{
